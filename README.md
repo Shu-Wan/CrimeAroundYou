@@ -6,3 +6,5 @@
 
 
 You can try out this app here: https://shuwan.shinyapps.io/CrimeAroundYou/
+
+The data is from https://moto.data.socrata.com/dataset/Washington-DC/2vfk-6rp4. Will create a fetch data r script in the future.
