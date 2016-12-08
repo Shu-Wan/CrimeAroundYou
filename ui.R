@@ -40,6 +40,9 @@ body <- dashboardBody(
                          "below the map allows you to explore incidents trend over period of time. The data is from", a('here.', href = 'https://moto.data.socrata.com/dataset/Washington-DC/2vfk-6rp4', target = "_blank")
                          ),
                      box(width = NULL,
+                         icon('user', class = 'fa-lg'), a('Personal Website', href = 'https://Shu-Wan.github.io', target = '_blank'),
+                         br(),
+                         br(),
                          icon('github', class = 'fa-lg'), a('Source Code', href = 'https://github.com/Shu-Wan/crimearoundyou', target = "_blank"),
                          br(),
                          br(),
