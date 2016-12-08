@@ -32,6 +32,6 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
-Washington_DC.csv
+*.csv
 
 rsconnect/*
