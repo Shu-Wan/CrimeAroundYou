@@ -7,7 +7,7 @@ type <- c("Robbery" = "Robbery", "Theft of Vehicle"= "Theft of Vehicle",
   "Theft from Vehicle" =  "Theft from Vehicle", "Breaking & Entering" = "Breaking & Entering",
   "Theft" = "Theft", "Assault with Deadly Weapon" = "Assault with Deadly Weapon",
   "Sexual Assault" =  "Sexual Assault", "Homicide" = "Homicide","Arson" = "Arson")
-header <- dashboardHeader(title = p("Crime Around You",tags$sup('TM')),
+header <- dashboardHeader(title = p("Crime Around You"),
                           titleWidth = 400)
 
 
@@ -40,7 +40,7 @@ body <- dashboardBody(
                          "below the map allows you to explore incidents trend over period of time. The data is from", a('here.', href = 'https://moto.data.socrata.com/dataset/Washington-DC/2vfk-6rp4', target = "_blank")
                          ),
                      box(width = NULL,
-                         icon('user', class = 'fa-lg'), a('Personal Website', href = 'https://Shu-Wan.github.io', target = '_blank'),
+                         icon('link', class = 'fa-lg'), a('Personal Website', href = 'https://Shu-Wan.github.io', target = '_blank'),
                          br(),
                          br(),
                          icon('github', class = 'fa-lg'), a('Source Code', href = 'https://github.com/Shu-Wan/crimearoundyou', target = "_blank"),
