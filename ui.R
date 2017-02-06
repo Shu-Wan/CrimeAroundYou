@@ -67,7 +67,3 @@ ui <- dashboardPage(skin = 'purple',
                     dashboardSidebar(disable = T),
                     body
                     )
-
-
-
-
