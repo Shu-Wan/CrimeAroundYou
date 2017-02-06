@@ -83,15 +83,3 @@ server <- function(input, output) {
       dyRangeSelector(fillColor = '#651365')
   })
 }
-
-
-
-
-
-
-
-
-
-
-
-
