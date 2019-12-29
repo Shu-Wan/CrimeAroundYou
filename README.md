@@ -1,4 +1,4 @@
-# Crime Around You V 1.0
+# Crime Around You
 
 **_Crime Around You_** is an interactive crime map app that allows you to explore crime incidents in a map. It also comes with a *dygraph* style plot to give you starightforward impression of crime incidents trend.
 
