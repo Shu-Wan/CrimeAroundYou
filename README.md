@@ -8,6 +8,7 @@ The app is available [here](https://shuwan.shinyapps.io/CrimeAroundYou/), and al
 
 ## Data
 The data used in this app is originally downloaded from https://moto.data.socrata.com/dataset/Washington-DC/2vfk-6rp4
+
 *The data is no longer available for public downloading.*
 
 ## Citation
